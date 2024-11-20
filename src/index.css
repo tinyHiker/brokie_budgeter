@@ -72,6 +72,7 @@ svg {
 }
 
 body {
+  /*transform: scale(1.1); */
   font-family: Arial, system-ui, "Segoe UI", Roboto;
   font-size: var(--fs-400);
   line-height: var(--lh-1-4);
@@ -83,6 +84,15 @@ body {
   -webkit-text-size-adjust: 100%;
   background-color: hsl(var(--bkg));
   color: hsl(var(--text));
+
+
+  /*
+  transform: scale(1.2);
+  transform-origin: top left; 
+  width: 85.9%; 
+  height: 85.9%;  
+  overflow: auto;
+  */
 }
 
 /* typography */
