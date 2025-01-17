@@ -1,8 +1,9 @@
 ## Brokie Budgeter: Click on the image to view the demo (or just visit the site link)
 
+[Site Link](https://sprightly-squirrel-ce575f.netlify.app/?index) 
 [![Display Page](BUDGETERPHOTO.png)](https://youtu.be/mWdGPfmdGUI)
 
-[Page Link](https://sprightly-squirrel-ce575f.netlify.app/?index)
+
 
 ## Overview
 
