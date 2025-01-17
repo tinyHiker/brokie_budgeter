@@ -1,6 +1,8 @@
-# Budget Buddy: Frontend Budgeting App
+## Brokie Budgeter: Click on the image to view the demo (or just visit the site link)
 
-![BudgetPhoto](BUDGETERPHOTO.png "Display Page")
+[![Display Page](BUDGETERPHOTO.png)](https://youtu.be/mWdGPfmdGUI)
+
+[Page Link](https://sprightly-squirrel-ce575f.netlify.app/?index)
 
 ## Overview
 
